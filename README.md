@@ -15,6 +15,7 @@
 | 💻 | **Claude Code** | Anthropic AI 编程助手 | [→ 查看详情](ClaudeCode.md) |
 | ⚡ | **OpenCode** | 开源 AI 编程助手 | [→ 查看详情](OpenCode.md) |
 | 🚀 | **AutoGPT** | 自主 AI 智能体 | [→ 查看详情](AutoGPT.md) |
+| 💎 | **Cursor Agent** | Cursor IDE AI 编程助手 | [→ 查看详情](CursorAgent.md) |
 
 ## 🛠️ 技术栈
 
