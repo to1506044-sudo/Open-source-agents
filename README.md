@@ -22,6 +22,7 @@
 | 🐉 | **Qwen Code** | 阿里通义 AI 编程助手 | [→ 查看详情](QwenCode.md) |
 | 🥧 | **Pi** | AI Agent 工具包 | [→ 查看详情](Pi.md) |
 | 💗 | **Crush** | Charm AI 编程助手 | [→ 查看详情](Crush.md) |
+| 🕸️ | **LangGraph** | Agent 编排框架 | [→ 查看详情](LangGraph.md) |
 
 ## 🛠️ 技术栈
 
