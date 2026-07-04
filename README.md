@@ -249,7 +249,16 @@ Human
 
                   | 项目 | 链接 | 说明 |
                   |------|------|------|
-                  | Hermes Agent | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 全自主 AI 助手，支持桌面操作、代码开发、量化交易等任务 |
+                  | Hermes Agent | [HermesAgent.md](agents/HermesAgent.md) | 全自主 AI 助手，支持桌面操作、代码开发、量化交易等任务 |
+
+                  ---
+
+                  # 📁 项目文档
+
+                  | 项目 | 文档 | 说明 |
+                  |------|------|------|
+                  | 🤖 Hermes Agent | [HermesAgent.md](agents/HermesAgent.md) | 全自主 AI 助手 |
+                  | 🦞 OpenClaw | [OpenClaw.md](agents/OpenClaw.md) | 个人 AI 助手平台 |
 
                   ---
 
