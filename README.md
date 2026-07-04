@@ -20,6 +20,7 @@
 | 🔮 | **Gemini CLI** | Google 终端编程助手 | [→ 查看详情](GeminiCLI.md) |
 | 🙌 | **OpenHands** | AI 驱动软件开发平台 | [→ 查看详情](OpenHands.md) |
 | 🐉 | **Qwen Code** | 阿里通义 AI 编程助手 | [→ 查看详情](QwenCode.md) |
+| 🥧 | **Pi** | AI Agent 工具包 | [→ 查看详情](Pi.md) |
 
 ## 🛠️ 技术栈
 
