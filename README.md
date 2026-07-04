@@ -13,6 +13,7 @@
 | 🤖 | **Hermes Agent** | 开源 AI 助手框架 | [→ 查看详情](HermesAgent.md) |
 | 🦞 | **OpenClaw** | 多平台聊天机器人 | [→ 查看详情](OpenClaw.md) |
 | 💻 | **Claude Code** | Anthropic AI 编程助手 | [→ 查看详情](ClaudeCode.md) |
+| ⚡ | **OpenCode** | 开源 AI 编程助手 | [→ 查看详情](OpenCode.md) |
 
 ## 🛠️ 技术栈
 
