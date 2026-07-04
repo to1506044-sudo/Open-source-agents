@@ -37,6 +37,6 @@ claude
 
 ## 项目导航
 
-← 返回 [README](README.md)
+← 返回 [README](../README.md)
 
 ---

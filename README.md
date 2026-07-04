@@ -10,9 +10,9 @@
 
 | 图标 | 项目 | 说明 | 链接 |
 |:----:|------|------|------|
-| 🤖 | **Hermes Agent** | 开源 AI 助手框架 | [→ 查看详情](HermesAgent.md) |
-| 🦞 | **OpenClaw** | 多平台聊天机器人 | [→ 查看详情](OpenClaw.md) |
-| 💻 | **Claude Code** | Anthropic AI 编程助手 | [→ 查看详情](ClaudeCode.md) |
+| 🤖 | **Hermes Agent** | 开源 AI 助手框架 | [→ 查看详情](1-HermesAgent.md) |
+| 🦞 | **OpenClaw** | 多平台聊天机器人 | [→ 查看详情](2-OpenClaw.md) |
+| 💻 | **Claude Code** | Anthropic AI 编程助手 | [→ 查看详情](3-ClaudeCode.md) |
 
 ## 🛠️ 技术栈
 
