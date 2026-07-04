@@ -14,7 +14,7 @@
 | 🦞 | **OpenClaw** | 多平台聊天机器人 | [→ 查看详情](OpenClaw.md) |
 | 💻 | **Claude Code** | Anthropic AI 编程助手 | [→ 查看详情](ClaudeCode.md) |
 | ⚡ | **OpenCode** | 开源 AI 编程助手 | [→ 查看详情](OpenCode.md) |
-| 🌐 | **Agent Browser** | AI 浏览器自动化 CLI | [→ 查看详情](AgentBrowser.md) |
+| 🚀 | **AutoGPT** | 自主 AI 智能体 | [→ 查看详情](AutoGPT.md) |
 
 ## 🛠️ 技术栈
 
