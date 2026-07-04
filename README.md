@@ -18,6 +18,7 @@
 | 💎 | **Cursor Agent** | Cursor IDE AI 编程助手 | [→ 查看详情](CursorAgent.md) |
 | 🧪 | **Codex CLI** | OpenAI 终端编程助手 | [→ 查看详情](CodexCLI.md) |
 | 🔮 | **Gemini CLI** | Google 终端编程助手 | [→ 查看详情](GeminiCLI.md) |
+| 🙌 | **OpenHands** | AI 驱动软件开发平台 | [→ 查看详情](OpenHands.md) |
 
 ## 🛠️ 技术栈
 
