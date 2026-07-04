@@ -23,6 +23,7 @@
 | 🥧 | **Pi** | AI Agent 工具包 | [→ 查看详情](Pi.md) |
 | 💗 | **Crush** | Charm AI 编程助手 | [→ 查看详情](Crush.md) |
 | 🕸️ | **LangGraph** | Agent 编排框架 | [→ 查看详情](LangGraph.md) |
+| 👥 | **CrewAI** | 多 Agent 协作框架 | [→ 查看详情](CrewAI.md) |
 
 ## 🛠️ 技术栈
 
