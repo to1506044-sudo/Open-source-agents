@@ -17,6 +17,7 @@
 | 🚀 | **AutoGPT** | 自主 AI 智能体 | [→ 查看详情](AutoGPT.md) |
 | 💎 | **Cursor Agent** | Cursor IDE AI 编程助手 | [→ 查看详情](CursorAgent.md) |
 | 🧪 | **Codex CLI** | OpenAI 终端编程助手 | [→ 查看详情](CodexCLI.md) |
+| 🔮 | **Gemini CLI** | Google 终端编程助手 | [→ 查看详情](GeminiCLI.md) |
 
 ## 🛠️ 技术栈
 
