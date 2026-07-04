@@ -245,6 +245,14 @@ Human
 
                   ---
 
+                  # 🤖 我正在使用的 AI Agent
+
+                  | 项目 | 链接 | 说明 |
+                  |------|------|------|
+                  | Hermes Agent | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 全自主 AI 助手，支持桌面操作、代码开发、量化交易等任务 |
+
+                  ---
+
                   # ⭐ Support
 
                   如果这个仓库对你有帮助，请点一个 **Star ⭐**。
