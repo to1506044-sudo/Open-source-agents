@@ -1,22 +1,19 @@
-# AnthropicComputerUse
+# Anthropic Computer Use Demo
 
-![AnthropicComputerUse](https://img.shields.io/badge/AnthropicComputerUse-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🤖 Computer Agents
+- 开发组织：Anthropic
+- 开源协议：开源
+- 编程语言：Python
+- 支持平台：macOS / Linux
+- 功能：
+  - 截图驱动桌面操控
+  - 浏览器操控
+  - 参考实现
+- GitHub：https://github.com/anthropics/anthropic-quickstarts
 
-## 简介
+- Stars：数千
 
-[AnthropicComputerUse](https://github.com/anthropics/anthropic-quickstarts) 是截图驱动的桌面/浏览器操控参考实现。
+> Anthropic 官方的 Computer Use 参考实现，截图驱动的桌面/浏览器操控 Demo。
 
-**许可证**: MIT | **星标**: 数千
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 📸 截图驱动 | 通过截图理解屏幕 |
-| 🖥️ 桌面操控 | 自动操作桌面应用 |
-| 🌐 浏览器 | 自动操作网页 |
-| 📋 参考实现 | 官方示例代码 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

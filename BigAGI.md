@@ -1,22 +1,20 @@
-# BigAGI
+# big-AGI
 
-![BigAGI](https://img.shields.io/badge/BigAGI-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：💬 AI Chat Platforms
+- 开发组织：big-AGI
+- 开源协议：MIT
+- 编程语言：TypeScript
+- 支持平台：Web / Docker
+- 功能：
+  - 功能丰富 AI 聊天
+  - Agent 客户端
+  - 多模型
+  - 语音
+- GitHub：https://github.com/enricoros/big-agi
 
-## 简介
+- Stars：数万
 
-[BigAGI](https://github.com/enricoros/big-AGI) 是功能丰富的开源AI聊天/Agent客户端。
+> 功能丰富的开源 AI 聊天/Agent 客户端。
 
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🛠️ 功能丰富 | 聊天/绘图/语音/Agent |
-| 🎨 精美UI | 现代化设计 |
-| 🔌 多模型 | 多种AI模型 |
-| ⚡ 高性能 | Next.js构建 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,19 @@
 # RAGFlow
 
-![RAGFlow](https://img.shields.io/badge/RAGFlow-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：📚 RAG
+- 开发组织：InfiniFlow
+- 开源协议：Apache-2.0
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux / Docker
+- 功能：
+  - 深度融合 RAG+Agent
+  - 深度文档解析
+  - 知识图谱
+- GitHub：https://github.com/infiniflow/ragflow
 
-## 简介
+- Stars：数万
 
-[RAGFlow](https://github.com/infiniflow/ragflow) 是深度融合RAG+Agent的检索增强引擎。
+> 深度融合 RAG + Agent 的检索增强引擎。
 
-**许可证**: Apache-2.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🔗 深度融合 | RAG与Agent深度结合 |
-| 📄 文档理解 | 强大文档解析 |
-| 🔍 精准检索 | 混合检索策略 |
-| 📊 可视化 | 知识图谱可视化 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

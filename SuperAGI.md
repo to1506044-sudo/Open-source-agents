@@ -1,22 +1,19 @@
 # SuperAGI
 
-![SuperAGI](https://img.shields.io/badge/SuperAGI-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：SuperAGI
+- 开源协议：MIT
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 带 GUI 的多智能体基础设施
+  - 工具市场
+  - Agent 管理
+- GitHub：https://github.com/TransformerOptimus/SuperAGI
 
-## 简介
+- Stars：数万
 
-[SuperAGI](https://github.com/TransformerOptimus/SuperAGI) 是带GUI的多智能体基础设施平台。
+> 带 GUI 的多智能体基础设施平台。
 
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🖥️ GUI界面 | 可视化操作 |
-| 👥 多智能体 | 多Agent并行 |
-| 🔌 工具市场 | 丰富Agent工具 |
-| 📊 监控面板 | 实时监控 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

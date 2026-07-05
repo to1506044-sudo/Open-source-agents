@@ -1,22 +1,20 @@
 # Haystack
 
-![Haystack](https://img.shields.io/badge/Haystack-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：📚 RAG
+- 开发组织：deepset
+- 开源协议：Apache-2.0
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 生产级 RAG
+  - Agent 编排
+  - Pipeline 架构
+  - 组件化
+- GitHub：https://github.com/deepset-ai/haystack
+- 官网：https://haystack.deepset.ai
+- Stars：数万
 
-## 简介
+> 生产级 RAG + Agent 编排框架。
 
-[Haystack](https://github.com/deepset-ai/haystack) 是生产级RAG+Agent编排框架。
-
-**许可证**: Apache-2.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🏭 生产级 | 企业级RAG框架 |
-| 🔗 Pipeline | 管道式编排 |
-| 📦 组件丰富 | 数百个组件 |
-| 🔍 检索增强 | 强大RAG |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,20 @@
 # vLLM
 
-![vLLM](https://img.shields.io/badge/vLLM-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🏠 Local Inference
+- 开发组织：vLLM Team
+- 开源协议：Apache-2.0
+- 编程语言：Python / C++
+- 支持平台：Linux
+- 功能：
+  - 高吞吐 LLM 推理
+  - PagedAttention
+  - 连续批处理
+  - 分布式推理
+- GitHub：https://github.com/vllm-project/vllm
+- 官网：https://vllm.ai
+- Stars：数万
 
-## 简介
+> 高吞吐 LLM 推理引擎，PagedAttention 技术。
 
-[vLLM](https://github.com/vllm-project/vllm) 是高吞吐LLM推理引擎，PagedAttention。
-
-**许可证**: Apache-2.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| ⚡ 高吞吐 | PagedAttention推理 |
-| 📊 批处理 | 连续批处理 |
-| 🔧 可扩展 | 多GPU分布式 |
-| 🏭 生产级 | 生产环境部署 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

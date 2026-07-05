@@ -1,22 +1,20 @@
 # AutoGen
 
-![AutoGen](https://img.shields.io/badge/AutoGen-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：Microsoft Research
+- 开源协议：MIT
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 对话式多智能体
+  - 微软研究院出品
+  - 代码执行
+  - 人机协作
+- GitHub：https://github.com/microsoft/autogen
+- 官网：https://microsoft.github.io/autogen
+- Stars：~42k
 
-## 简介
+> 对话式多智能体框架，微软研究院出品。
 
-[AutoGen](https://github.com/microsoft/autogen) 是对话式多智能体框架，微软研究院出品。
-
-**许可证**: MIT | **星标**: ~42k
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 💬 对话驱动 | Agent对话协作 |
-| 🏢 微软出品 | 微软研究院 |
-| 👥 多智能体 | 多Agent编排 |
-| 🔧 高度可定制 | 灵活角色定义 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

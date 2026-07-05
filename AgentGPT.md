@@ -1,22 +1,19 @@
 # AgentGPT
 
-![AgentGPT](https://img.shields.io/badge/AgentGPT-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：Reworkd
+- 开源协议：开源
+- 编程语言：TypeScript
+- 支持平台：浏览器
+- 功能：
+  - 浏览器端零代码
+  - 自主 Agent
+  - 任务定义
+- GitHub：https://github.com/reworkd/AgentGPT
 
-## 简介
+- Stars：数万
 
-[AgentGPT](https://github.com/reworkd/AgentGPT) 是浏览器端零代码自主Agent。
+> 浏览器端零代码自主 Agent。
 
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🌐 浏览器端 | 无需安装 |
-| 🚫 零代码 | 无需编程 |
-| 🤖 自主Agent | 自动规划执行 |
-| 📊 可视化 | 执行过程可视化 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

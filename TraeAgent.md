@@ -1,22 +1,19 @@
-# TraeAgent
+# Trae Agent
 
-![TraeAgent](https://img.shields.io/badge/TraeAgent-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：👨‍💻 Coding Agents
+- 开发组织：字节跳动
+- 开源协议：开源
+- 编程语言：TypeScript
+- 支持平台：VS Code
+- 功能：
+  - IDE 编码 Agent
+  - 2026年2月 Trending 第一
+  - 多模型支持
+- GitHub：https://github.com/anthropics/trae-agent
 
-## 简介
+- Stars：~25k
 
-[TraeAgent](https://github.com/bytedance/trae-agent) 是2026年2月GitHub Trending第一，字节跳动出品。
+> 字节跳动出品，2026 年 2 月 GitHub Trending 第一。
 
-**许可证**: 开源 | **星标**: ~25k
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🏆 Trending第一 | 2026年2月榜首 |
-| 🏢 字节跳动 | 字节AI团队 |
-| 🤖 智能编码 | AI驱动编码 |
-| ⚡ 高性能 | 大规模训练 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

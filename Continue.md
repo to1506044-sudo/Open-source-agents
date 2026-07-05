@@ -1,22 +1,20 @@
 # Continue
 
-![Continue](https://img.shields.io/badge/Continue-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：👨‍💻 Coding Agents
+- 开发组织：Continue
+- 开源协议：Apache-2.0
+- 编程语言：TypeScript
+- 支持平台：VS Code / JetBrains
+- 功能：
+  - IDE 原生助手
+  - 双端支持
+  - 代码补全
+  - 聊天交互
+- GitHub：https://github.com/continuedev/continue
+- 官网：https://continue.dev
+- Stars：~26–31k
 
-## 简介
+> VS Code + JetBrains 双端支持的 IDE 原生助手。
 
-[Continue](https://github.com/continuedev/continue) 是VS Code + JetBrains 双端支持的IDE原生助手。
-
-**许可证**: Apache-2.0 | **星标**: ~26-31k
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🔌 双端IDE | VS Code+JetBrains |
-| 🤖 多模型 | Claude/GPT/Ollama |
-| 📝 上下文感知 | 自动感知项目 |
-| 🔧 可定制 | 丰富配置 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

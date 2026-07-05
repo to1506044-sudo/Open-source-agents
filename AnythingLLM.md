@@ -1,22 +1,20 @@
 # AnythingLLM
 
-![AnythingLLM](https://img.shields.io/badge/AnythingLLM-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：💬 AI Chat Platforms
+- 开发组织：Mintplex Labs
+- 开源协议：MIT
+- 编程语言：JavaScript
+- 支持平台：Docker / 本地
+- 功能：
+  - 全栈私有化知识库
+  - Agent 应用
+  - 多模型
+  - RAG
+- GitHub：https://github.com/Mintplex-Labs/anything-llm
+- 官网：https://anythingllm.com
+- Stars：数万
 
-## 简介
+> 全栈私有化知识库 + Agent 应用。
 
-[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) 是全栈私有化知识库+Agent应用。
-
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 📚 知识库 | 私有知识库 |
-| 🤖 Agent | 内置Agent能力 |
-| 🏠 私有化 | 完全本地部署 |
-| 📄 文档支持 | 多种文档格式 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

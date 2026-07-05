@@ -1,29 +1,20 @@
-# 🦞 OpenClaw
+# OpenClaw
 
-> 个人 AI 助手平台，小龙虾风格
+- 类型：🤖 Computer Agents
+- 开发组织：Community
+- 开源协议：开源
+- 编程语言：Python
+- 支持平台：macOS / Linux
+- 功能：
+  - Computer Use
+  - Desktop Automation
+  - 系统级操作
+  - 代理管理
+- GitHub：https://github.com/openclaw/openclaw
 
-## 📌 项目信息
+- Stars：60天 9k→188k
 
-| 项目 | 内容 |
-|------|------|
-| **GitHub** | [openclaw/openclaw](https://github.com/openclaw/openclaw) |
-| **开发者** | OpenClaw 社区 |
-| **语言** | Python |
-| **许可** | 开源 |
-
-## ✨ 核心功能
-
-- 🤖 **AI 助手** — 个人智能助手平台
-- 🔧 **可扩展** — 支持插件和自定义功能
-- 🌐 **多平台** — 支持多种消息平台集成
-
-## 🔗 相关链接
-
-- [GitHub 仓库](https://github.com/openclaw/openclaw)
-
----
-
-*本文档持续更新中...*
+> 2026 增速最快的开源 Agent 项目，60 天内从 9k 星冲到 188k 星。
 
 ---
 ← 返回 [README](README.md)

@@ -1,21 +1,19 @@
 # OpenMemory
 
-## 项目信息
+- 类型：🧠 Memory
+- 开发组织：Community
+- 开源协议：MIT
+- 编程语言：Python / TypeScript
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 跨会话持久化上下文
+  - Claude Code/Codex/Gemini 兼容
+  - 本地优先
+- GitHub：https://github.com/openmemory/openmemory
 
-- **GitHub**: [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
-- **分类**: 记忆系统
-- **语言**: Python
-- **Stars**: 4k+
+- Stars：增长中
 
-## 项目描述
+> 跨会话持久化上下文，兼容 Claude Code/Codex/Gemini 等。
 
-OpenMemory 是本地持久记忆存储，为LLM应用提供跨会话的记忆能力，支持Claude Desktop、GitHub Copilot等工具。
-
-## 在Hermes Agent架构中的角色
-
-OpenMemory 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供记忆系统能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/CaviraOSS/OpenMemory)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)

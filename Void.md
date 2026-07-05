@@ -1,22 +1,19 @@
 # Void
 
-![Void](https://img.shields.io/badge/Void-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🖥️ AI IDE / Editor
+- 开发组织：Void
+- 开源协议：开源
+- 编程语言：TypeScript
+- 支持平台：VS Code Fork
+- 功能：
+  - 最接近 Cursor 的开源替代
+  - VS Code 分支
+  - AI Agent 模式
+- GitHub：https://github.com/voideditor/void
 
-## 简介
+- Stars：~28k (开发已暂停)
 
-[Void](https://github.com/voideditor/void) 是最接近Cursor的开源VS Code分支。
+> 最接近 Cursor 的开源 VS Code 分支（开发已暂停）。
 
-**许可证**: 开源 | **星标**: ~28k(已暂停)
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🎯 Cursor替代 | 最接近Cursor |
-| 📝 VS Code分支 | 基于VS Code定制 |
-| ⚠️ 开发暂停 | 已停止积极开发 |
-| 🤖 AI集成 | 内置AI辅助 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,19 @@
 # Lapce
 
-![Lapce](https://img.shields.io/badge/Lapce-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🖥️ AI IDE / Editor
+- 开发组织：Lapce
+- 开源协议：MIT
+- 编程语言：Rust
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - Rust 高性能编辑器
+  - 插件化 AI 能力
+  - 远程开发
+- GitHub：https://github.com/lapce/lapce
+- 官网：https://lapce.dev
+- Stars：数万
 
-## 简介
+> Rust 高性能编辑器，插件化 AI 能力。
 
-[Lapce](https://github.com/lapce/lapce) 是Rust高性能编辑器，插件化AI能力。
-
-**许可证**: Apache-2.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| ⚡ Rust性能 | 极速响应 |
-| 🔌 插件系统 | WASM插件架构 |
-| 🤖 AI能力 | 可扩展AI辅助 |
-| 🖥️ 跨平台 | Win/macOS/Linux |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

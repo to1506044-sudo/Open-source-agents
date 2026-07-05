@@ -1,22 +1,19 @@
 # Smolagents
 
-![Smolagents](https://img.shields.io/badge/Smolagents-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：HuggingFace
+- 开源协议：Apache-2.0
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 极简代码驱动 Agent
+  - HuggingFace 官方
+  - 工具调用
+- GitHub：https://github.com/huggingface/smolagents
 
-## 简介
+- Stars：~15k
 
-[Smolagents](https://github.com/huggingface/smolagents) 是极简代码驱动Agent，HuggingFace官方出品。
+> 极简代码驱动 Agent，HuggingFace 官方出品。
 
-**许可证**: Apache-2.0 | **星标**: ~15k
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🪶 极简设计 | 最少代码实现 |
-| 🤗 HF官方 | HuggingFace出品 |
-| 📝 代码驱动 | Python定义逻辑 |
-| 🔌 模型无关 | 多种LLM后端 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

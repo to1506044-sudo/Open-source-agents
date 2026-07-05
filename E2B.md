@@ -1,21 +1,20 @@
-# E2B Sandboxes
+# E2B
 
-## 项目信息
+- 类型：🔒 Security & Sandbox
+- 开发组织：E2B
+- 开源协议：开源
+- 编程语言：TypeScript / Python
+- 支持平台：云服务
+- 功能：
+  - AI Agent 安全沙盒
+  - 云端代码执行
+  - Firecracker microVM
+  - 快速启动
+- GitHub：https://github.com/e2b-dev/E2B
+- 官网：https://e2b.dev
+- Stars：数万
 
-- **GitHub**: [e2b-dev/E2B](https://github.com/e2b-dev/E2B)
-- **分类**: 安全沙盒
-- **语言**: Python
-- **Stars**: 7k+
+> 为 AI Agent 提供安全云端代码执行沙盒。
 
-## 项目描述
-
-E2B 是Computer-Use Agents基础设施，提供完全隔离的虚拟主机环境(Sandbox)，让Agent在沙盒里随便折腾而不污染真实系统。
-
-## 在Hermes Agent架构中的角色
-
-E2B Sandboxes 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供安全沙盒能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/e2b-dev/E2B)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)

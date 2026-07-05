@@ -1,22 +1,20 @@
 # Jan
 
-![Jan](https://img.shields.io/badge/Jan-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：💬 AI Chat Platforms
+- 开发组织：Jan
+- 开源协议：开源
+- 编程语言：TypeScript
+- 支持平台：macOS / Windows / Linux
+- 功能：
+  - 完全离线优先
+  - ChatGPT 替代
+  - 本地模型
+  - 隐私优先
+- GitHub：https://github.com/janhq/jan
+- 官网：https://jan.ai
+- Stars：数万
 
-## 简介
+> 完全离线优先的开源 ChatGPT 替代客户端。
 
-[Jan](https://github.com/janhq/jan) 是完全离线优先的开源ChatGPT替代客户端。
-
-**许可证**: AGPL-3.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🏠 完全离线 | 无需联网使用 |
-| 🖥️ 桌面应用 | 跨平台桌面客户端 |
-| 📦 模型管理 | 内置模型下载 |
-| 🔧 可扩展 | 支持扩展插件 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

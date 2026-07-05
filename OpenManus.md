@@ -1,21 +1,20 @@
 # OpenManus
 
-## 项目信息
+- 类型：🤖 Computer Agents
+- 开发组织：Community
+- 开源协议：MIT
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 通用 AI Agent
+  - 工具调用
+  - 多步骤任务
+  - Computer Use
+- GitHub：https://github.com/mannaandpoem/OpenManus
 
-- **GitHub**: [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
-- **分类**: AI Agent平台
-- **语言**: Python
-- **Stars**: 56k+
+- Stars：数万
 
-## 项目描述
+> 通用 AI Agent 平台，支持工具调用和多步骤复杂任务执行。
 
-OpenManus 是开源Manus AI Agent复刻项目，提供通用AI Agent能力，支持工具调用和复杂任务执行。
-
-## 在Hermes Agent架构中的角色
-
-OpenManus 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供AI Agent平台能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/FoundationAgents/OpenManus)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)

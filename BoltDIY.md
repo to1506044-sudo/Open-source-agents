@@ -1,22 +1,19 @@
-# BoltDIY
+# bolt.diy
 
-![BoltDIY](https://img.shields.io/badge/BoltDIY-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：👨‍💻 Coding Agents
+- 开发组织：StackBlitz
+- 开源协议：MIT
+- 编程语言：TypeScript
+- 支持平台：浏览器
+- 功能：
+  - 浏览器内全栈应用生成
+  - 实时预览
+  - WebContainer
+- GitHub：https://github.com/stackblitz-labs/bolt.diy
+- 官网：https://bolt.new
+- Stars：~19k
 
-## 简介
+> bolt.new 社区版，浏览器内全栈应用生成与编辑。
 
-[BoltDIY](https://github.com/stackblitz-labs/bolt.diy) 是浏览器内全栈应用生成与编辑。
-
-**许可证**: MIT | **星标**: ~19k
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🌐 浏览器内 | 无需本地环境 |
-| 🏗️ 全栈生成 | 前端+后端 |
-| ✏️ 可视化编辑 | 实时预览编辑 |
-| 📦 StackBlitz | 运行时支持 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

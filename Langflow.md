@@ -1,22 +1,19 @@
 # Langflow
 
-![Langflow](https://img.shields.io/badge/Langflow-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：📚 RAG
+- 开发组织：Langflow
+- 开源协议：开源
+- 编程语言：Python
+- 支持平台：Docker / 云服务
+- 功能：
+  - 可视化 LangChain 编排
+  - 拖拽式
+  - API 自动生成
+- GitHub：https://github.com/langflow-ai/langflow
+- 官网：https://langflow.org
+- Stars：数万
 
-## 简介
+> 可视化 LangChain 工作流编排。
 
-[Langflow](https://github.com/langflow-ai/langflow) 是可视化LangChain工作流编排。
-
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🎨 可视化 | LangChain可视化 |
-| 🔗 LangChain | 基于LangChain |
-| 📦 组件丰富 | 继承组件生态 |
-| 🚀 快速原型 | 快速构建原型 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

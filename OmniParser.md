@@ -1,21 +1,20 @@
 # OmniParser
 
-## 项目信息
+- 类型：🤖 Computer Agents
+- 开发组织：Microsoft
+- 开源协议：MIT
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 屏幕截图解析
+  - UI 元素检测
+  - 视觉 grounding
+  - 结构化输出
+- GitHub：https://github.com/microsoft/OmniParser
 
-- **GitHub**: [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
-- **分类**: 视觉定位
-- **语言**: Python
-- **Stars**: 25k+
+- Stars：~10k+
 
-## 项目描述
+> 微软出品的屏幕截图解析工具，将截图转化为结构化 UI 元素，为 Agent 提供视觉感知能力。
 
-OmniParser 是微软开发的屏幕解析工具，把截图解析成结构化UI元素坐标，显著增强视觉模型生成精确动作的能力。弥补纯视觉定位的误差。
-
-## 在Hermes Agent架构中的角色
-
-OmniParser 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供视觉定位能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/microsoft/OmniParser)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)

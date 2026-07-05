@@ -1,22 +1,20 @@
 # CopilotKit
 
-![CopilotKit](https://img.shields.io/badge/CopilotKit-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：📚 RAG
+- 开发组织：CopilotKit
+- 开源协议：MIT
+- 编程语言：TypeScript
+- 支持平台：Web
+- 功能：
+  - 嵌入式 AI Copilot
+  - React 集成
+  - CoAgent
+  - Agent 可视化
+- GitHub：https://github.com/CopilotKit/CopilotKit
+- 官网：https://copilotkit.ai
+- Stars：数万
 
-## 简介
+> 将自定义 AI Copilot 嵌入 React 应用的开源框架。
 
-[CopilotKit](https://github.com/CopilotKit/CopilotKit) 是将自定义AI Copilot嵌入React应用的开源框架。
-
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| ⚛️ React集成 | 深度React集成 |
-| 🤖 自定义Copilot | 构建专属助手 |
-| 📝 对话界面 | 内置聊天UI |
-| 🔧 可定制 | 高度可定制 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

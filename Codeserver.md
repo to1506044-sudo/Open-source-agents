@@ -1,22 +1,19 @@
-# Codeserver
+# code-server
 
-![Codeserver](https://img.shields.io/badge/Codeserver-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🖥️ AI IDE / Editor
+- 开发组织：Coder
+- 开源协议：MIT
+- 编程语言：TypeScript
+- 支持平台：浏览器 / Docker
+- 功能：
+  - VS Code 跑在浏览器
+  - AI Agent 沙盒 IDE
+  - 远程开发
+- GitHub：https://github.com/coder/code-server
+- 官网：https://coder.com
+- Stars：数万
 
-## 简介
+> 让 VS Code 跑在浏览器里，常被用作 AI Agent 沙盒 IDE。
 
-[Codeserver](https://github.com/coder/code-server) 是让VS Code跑在浏览器里，常被用作AI Agent沙盒IDE。
-
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🌐 浏览器IDE | 浏览器运行VS Code |
-| 🐳 沙盒环境 | Agent执行沙盒 |
-| 🏠 自托管 | 自主部署 |
-| 👥 多用户 | 多用户同时使用 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

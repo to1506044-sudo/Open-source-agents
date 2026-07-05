@@ -1,22 +1,19 @@
 # Zed
 
-![Zed](https://img.shields.io/badge/Zed-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🖥️ AI IDE / Editor
+- 开发组织：Zed Industries
+- 开源协议：开源
+- 编程语言：Rust
+- 支持平台：macOS / Linux
+- 功能：
+  - Rust 高性能协作编辑
+  - AI Agent 模式
+  - 实时协作
+- GitHub：https://github.com/zed-industries/zed
+- 官网：https://zed.dev
+- Stars：数万
 
-## 简介
+> Rust 编写的高性能协作编辑器，内置 AI Agent 模式。
 
-[Zed](https://github.com/zed-industries/zed) 是Rust编写的高性能协作编辑器，内置AI Agent模式。
-
-**许可证**: AGPL-3.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| ⚡ 极致性能 | Rust启动极快 |
-| 👥 实时协作 | 内置多人协作 |
-| 🤖 AI Agent | 内置AI模式 |
-| 🎨 现代UI | GPU加速渲染 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

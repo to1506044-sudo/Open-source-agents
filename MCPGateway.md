@@ -1,21 +1,19 @@
 # MCP Gateway
 
-## 项目信息
+- 类型：🔌 MCP
+- 开发组织：Community
+- 开源协议：MIT
+- 编程语言：Python / TypeScript
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - MCP 服务器网关
+  - 工具聚合
+  - 多服务器管理
+- GitHub：https://github.com/modelcontextprotocol/servers
+- 官网：https://modelcontextprotocol.io
+- Stars：数万
 
-- **GitHub**: [acehoss/mcp-gateway](https://github.com/acehoss/mcp-gateway)
-- **分类**: MCP工具
-- **语言**: TypeScript
-- **Stars**: 133
+> MCP 官方服务器网关，聚合和管理多个 MCP 服务器。
 
-## 项目描述
-
-MCP Gateway 是灵活的MCP服务器网关，把STDIO MCP服务器桥接到HTTP+SSE和REST API，实现多实例和远程访问。
-
-## 在Hermes Agent架构中的角色
-
-MCP Gateway 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供MCP工具能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/acehoss/mcp-gateway)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)

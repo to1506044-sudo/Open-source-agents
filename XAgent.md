@@ -1,22 +1,19 @@
 # XAgent
 
-![XAgent](https://img.shields.io/badge/XAgent-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：清华大学
+- 开源协议：开源
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 双循环自主 Agent
+  - 清华系出品
+  - 规划+执行
+- GitHub：https://github.com/thu-coai/XAgent
 
-## 简介
+- Stars：数万
 
-[XAgent](https://github.com/THUDM/XAgent) 是清华系出品的双循环自主Agent。
+> 清华系出品的双循环自主 Agent。
 
-**许可证**: Apache-2.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🔄 双循环 | 规划+执行双循环 |
-| 🎓 清华出品 | 清华大学KEG |
-| 🛠️ 工具使用 | 灵活工具调用 |
-| 📝 自主决策 | 自主分析方案 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,19 @@
 # Letta
 
-![Letta](https://img.shields.io/badge/Letta-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：Letta (原 MemGPT)
+- 开源协议：Apache-2.0
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 长期记忆
+  - 状态化 Agent
+  - 无限上下文
+- GitHub：https://github.com/letta-ai/letta
+- 官网：https://letta.com
+- Stars：数万
 
-## 简介
+> 长期记忆与状态化 Agent 框架（原 MemGPT）。
 
-[Letta](https://github.com/letta-ai/letta) 是长期记忆与状态化Agent框架。
-
-**许可证**: Apache-2.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🧠 长期记忆 | 持久化记忆系统 |
-| 📊 状态管理 | Agent状态持久化 |
-| 🔄 自我进化 | 从经验中学习 |
-| 📦 原MemGPT | 前身MemGPT |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

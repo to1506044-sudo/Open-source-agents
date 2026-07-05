@@ -1,22 +1,20 @@
 # LocalAI
 
-![LocalAI](https://img.shields.io/badge/LocalAI-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🏠 Local Inference
+- 开发组织：LocalAI
+- 开源协议：MIT
+- 编程语言：Go
+- 支持平台：Docker / 本地
+- 功能：
+  - OpenAI API 兼容
+  - 本地推理服务器
+  - 多模态
+  - CPU/GPU
+- GitHub：https://github.com/mudler/LocalAI
 
-## 简介
+- Stars：数万
 
-[LocalAI](https://github.com/mudler/LocalAI) 是OpenAI API兼容的本地推理服务器。
+> OpenAI API 兼容的本地推理服务器。
 
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🔌 API兼容 | 兼容OpenAI API |
-| 🏠 本地部署 | 完全本地运行 |
-| 🖼️ 多模态 | 文本/图像/音频 |
-| 🔧 灵活配置 | 多种后端模型 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,19 @@
 # FastGPT
 
-![FastGPT](https://img.shields.io/badge/FastGPT-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：📚 RAG
+- 开发组织：FastAI
+- 开源协议：开源
+- 编程语言：TypeScript
+- 支持平台：Docker
+- 功能：
+  - 国产开源知识库
+  - Agent 搭建
+  - 可视化编排
+- GitHub：https://github.com/labring/FastGPT
 
-## 简介
+- Stars：数万
 
-[FastGPT](https://github.com/labring/FastGPT) 是国产开源知识库+Agent搭建平台。
+> 国产开源知识库 + Agent 搭建平台。
 
-**许可证**: 开源 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🇨🇳 国产开源 | 国内团队维护 |
-| 📚 知识库 | 强大知识库管理 |
-| 🤖 Agent搭建 | 可视化Agent配置 |
-| 🚀 快速部署 | 一键部署 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

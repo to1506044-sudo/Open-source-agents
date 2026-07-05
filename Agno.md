@@ -1,22 +1,19 @@
 # Agno
 
-![Agno](https://img.shields.io/badge/Agno-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：Agno (原 Phidata)
+- 开源协议：开源
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 轻量级多模态 Agent
+  - 快速构建
+  - 工具集成
+- GitHub：https://github.com/agno-agi/agno
+- 官网：https://agno.com
+- Stars：数万
 
-## 简介
+> 轻量级多模态 Agent 构建框架（原 Phidata）。
 
-[Agno](https://github.com/agno-agi/agno) 是轻量级多模态Agent构建框架。
-
-**许可证**: Apache-2.0 | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🪶 轻量级 | 简洁高效 |
-| 🖼️ 多模态 | 文本/图像/音频 |
-| ⚡ 高性能 | 优化推理执行 |
-| 🔧 易扩展 | 插件化架构 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

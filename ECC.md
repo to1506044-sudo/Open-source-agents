@@ -1,22 +1,19 @@
 # ECC
 
-![ECC](https://img.shields.io/badge/ECC-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：👨‍💻 Coding Agents
+- 开发组织：Community
+- 开源协议：开源
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - Agent Harness 性能优化
+  - Claude Code/Codex/Cursor 加速
+  - 2026 增速最快之一
+- GitHub：https://github.com/anthropics/ecc
 
-## 简介
+- Stars：~210k
 
-[ECC](https://github.com/anthropics/claude-code) 是Claude Code/Codex/Cursor等的性能优化系统。
+> Claude Code/Codex/Cursor 等的性能优化系统，2026 增速最快项目之一。
 
-**许可证**: 开源 | **星标**: ~210k
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| ⚡ 性能优化 | 提升30-50%效率 |
-| 🔧 通用适配 | 适用多种编码Agent |
-| 📊 效率提升 | 实测效果显著 |
-| 🚀 增速最快 | 2026年增速最快 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,20 @@
-# OpenAIAgentsSDK
+# OpenAI Agents SDK
 
-![OpenAIAgentsSDK](https://img.shields.io/badge/OpenAIAgentsSDK-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：OpenAI
+- 开源协议：MIT
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 官方 Agent SDK
+  - Handoff
+  - Guardrails
+  - Tracing
+- GitHub：https://github.com/openai/openai-agents-python
+- 官网：https://openai.com
+- Stars：~27k
 
-## 简介
+> OpenAI 官方 Agent SDK：handoff、guardrails、tracing。
 
-[OpenAIAgentsSDK](https://github.com/openai/openai-agents-python) 是官方Agent SDK：handoff、guardrails、tracing。
-
-**许可证**: MIT | **星标**: ~27k
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🏢 OpenAI官方 | OpenAI官方SDK |
-| 🔄 Handoff | Agent间任务交接 |
-| 🛡️ Guardrails | 内置安全护栏 |
-| 📊 Tracing | 执行追踪 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,19 @@
 # Daytona
 
-![Daytona](https://img.shields.io/badge/Daytona-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🔒 Security & Sandbox
+- 开发组织：Daytona
+- 开源协议：开源
+- 编程语言：Go
+- 支持平台：Docker / 云服务
+- 功能：
+  - 开发环境管理
+  - Agent 执行沙盒
+  - 一键环境创建
+- GitHub：https://github.com/daytonaio/daytona
+- 官网：https://daytona.io
+- Stars：增长中
 
-## 简介
+> 开发环境 / Agent 执行沙盒基础设施。
 
-[Daytona](https://github.com/daytonaio/daytona) 是开发环境/Agent执行沙盒基础设施。
-
-**许可证**: MIT | **星标**: 增长中
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🐳 沙盒环境 | 安全代码执行 |
-| ⚡ 快速启动 | 秒级启动环境 |
-| 🔧 可定制 | 灵活环境配置 |
-| 🔌 API驱动 | API驱动管理 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

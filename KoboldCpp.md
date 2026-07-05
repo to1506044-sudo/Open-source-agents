@@ -1,22 +1,20 @@
-# KoboldCpp
+# koboldcpp
 
-![KoboldCpp](https://img.shields.io/badge/KoboldCpp-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🏠 Local Inference
+- 开发组织：KoboldAI
+- 开源协议：MIT
+- 编程语言：C++
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 面向创作/角色扮演
+  - 本地推理后端
+  - GGUF 支持
+  - Web UI
+- GitHub：https://github.com/LostRuins/koboldcpp
 
-## 简介
+- Stars：数万
 
-[KoboldCpp](https://github.com/LostRuins/koboldcpp) 是面向创作/角色扮演的本地推理后端。
+> 面向创作/角色扮演的本地推理后端。
 
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🎭 角色扮演 | 创意写作角色扮演 |
-| ⚡ 高性能 | C++优化推理 |
-| 🌐 Web界面 | 内置Web聊天 |
-| 🔌 多模型 | 多种模型格式 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,19 @@
-# GoogleADK
+# Google ADK
 
-![GoogleADK](https://img.shields.io/badge/GoogleADK-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Multi-Agent
+- 开发组织：Google
+- 开源协议：Apache-2.0
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - Agent 开发套件
+  - Gemini/Vertex 原生对接
+  - MCP 支持
+- GitHub：https://github.com/google/adk-python
 
-## 简介
+- Stars：增长中
 
-[GoogleADK](https://github.com/google/adk-python) 是Google Agent开发套件，原生对接Gemini/Vertex。
+> Google Agent 开发套件，原生对接 Gemini/Vertex。
 
-**许可证**: Apache-2.0 | **星标**: 增长中
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🏢 Google出品 | Google官方SDK |
-| 🤖 Gemini原生 | Gemini深度集成 |
-| ☁️ Vertex AI | Google Cloud对接 |
-| 🔧 工具生态 | 丰富Agent工具 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

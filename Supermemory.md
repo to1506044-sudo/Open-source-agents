@@ -1,22 +1,19 @@
 # Supermemory
 
-![Supermemory](https://img.shields.io/badge/Supermemory-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🧠 Memory
+- 开发组织：Supermemory
+- 开源协议：MIT
+- 编程语言：TypeScript
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 跨会话持久化
+  - Claude Code/Codex/Gemini 兼容
+  - 语义搜索
+- GitHub：https://github.com/supermemoryai/supermemory
+- 官网：https://supermemory.ai
+- Stars：增长中
 
-## 简介
+> 跨会话持久化上下文，兼容主流编码 Agent。
 
-[Supermemory](https://github.com/supermemoryai/supermemory) 是跨会话持久化上下文，兼容Claude Code/Codex/Gemini等。
-
-**许可证**: 开源 | **星标**: 增长中
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🧠 持久记忆 | 跨会话保存上下文 |
-| 🔌 多工具兼容 | Claude/Codex/Gemini |
-| 🔄 自动同步 | 自动同步更新 |
-| 🔒 隐私保护 | 本地存储优先 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,22 +1,19 @@
 # Activepieces
 
-![Activepieces](https://img.shields.io/badge/Activepieces-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：📚 RAG
+- 开发组织：Activepieces
+- 开源协议：MIT
+- 编程语言：TypeScript
+- 支持平台：Docker
+- 功能：
+  - 开源自动化工作流
+  - MCP/Agent 集成
+  - 无代码
+- GitHub：https://github.com/activepieces/activepieces
+- 官网：https://activepieces.com
+- Stars：数万
 
-## 简介
+> 开源自动化工作流平台，MCP/Agent 集成。
 
-[Activepieces](https://github.com/activepieces/activepieces) 是开源自动化工作流平台，MCP/Agent集成。
-
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🔄 自动化 | 开源工作流 |
-| 🤖 MCP集成 | 支持MCP协议 |
-| 🔌 丰富连接器 | 多种应用连接 |
-| 📝 代码友好 | 自定义代码步骤 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

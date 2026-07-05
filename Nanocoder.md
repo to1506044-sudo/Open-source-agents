@@ -1,22 +1,19 @@
 # Nanocoder
 
-![Nanocoder](https://img.shields.io/badge/Nanocoder-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：👨‍💻 Coding Agents
+- 开发组织：Nano Collective
+- 开源协议：MIT
+- 编程语言：TypeScript
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 默认本地推理
+  - Ollama/LM Studio 支持
+  - 隐私优先
+- GitHub：https://github.com/nano-code/nanocoder
 
-## 简介
+- Stars：~2k+
 
-[Nanocoder](https://github.com/nanocollective/nanocoder) 是Nano Collective出品，默认本地推理。
+> Nano Collective 出品，默认本地推理（Ollama/LM Studio）的终端编码 Agent。
 
-**许可证**: MIT | **星标**: ~2k+
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🏠 本地推理 | Ollama/LM Studio |
-| 🔒 隐私优先 | 代码不离开本地 |
-| ⚡ 轻量 | 简洁高效 |
-| 🆓 免费 | 完全免费开源 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

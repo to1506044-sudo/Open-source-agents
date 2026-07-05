@@ -1,22 +1,20 @@
 # GPT4All
 
-![GPT4All](https://img.shields.io/badge/GPT4All-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：🏠 Local Inference
+- 开发组织：Nomic AI
+- 开源协议：开源
+- 编程语言：C++ / Python
+- 支持平台：macOS / Windows / Linux
+- 功能：
+  - 无需联网
+  - 消费级硬件可跑
+  - 本地聊天
+  - 隐私优先
+- GitHub：https://github.com/nomic-ai/gpt4all
+- 官网：https://gpt4all.io
+- Stars：数万
 
-## 简介
+> 无需联网、消费级硬件可跑的本地聊天应用。
 
-[GPT4All](https://github.com/nomic-ai/gpt4all) 是无需联网、消费级硬件可跑的本地聊天应用。
-
-**许可证**: MIT | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🏠 完全离线 | 无需联网使用 |
-| 💻 消费级硬件 | 普通电脑可跑 |
-| 🖥️ 桌面应用 | 开箱即用 |
-| 📚 丰富模型 | 多种量化模型 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,21 +1,19 @@
 # BrowserMCP
 
-## 项目信息
+- 类型：🔌 MCP
+- 开发组织：Community
+- 开源协议：MIT
+- 编程语言：TypeScript
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 浏览器 MCP Server
+  - 网页操作工具
+  - Playwright 集成
+- GitHub：https://github.com/anthropics/mcp-browser
 
-- **GitHub**: [anthropics/browser-mcp](https://github.com/anthropics/browser-mcp)
-- **分类**: MCP工具
-- **语言**: TypeScript
-- **Stars**: 5k+
+- Stars：数千
 
-## 项目描述
+> 浏览器操作的 MCP Server，让 Agent 通过 MCP 协议控制浏览器。
 
-BrowserMCP 是 Anthropic 推出的浏览器MCP服务器，让AI Agent能够通过MCP协议控制浏览器，实现网页自动化操作。
-
-## 在Hermes Agent架构中的角色
-
-BrowserMCP 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供MCP工具能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/anthropics/browser-mcp)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)

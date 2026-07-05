@@ -1,22 +1,20 @@
-# OpenWebUI
+# Open WebUI
 
-![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Blue?style=for-the-badge&logo=github&logoColor=white)
+- 类型：💬 AI Chat Platforms
+- 开发组织：Open WebUI
+- 开源协议：BSD-3
+- 编程语言：Python / TypeScript
+- 支持平台：Docker / 本地
+- 功能：
+  - 自托管 ChatGPT 式界面
+  - Agent 支持
+  - 工具调用
+  - 多模型
+- GitHub：https://github.com/open-webui/open-webui
 
-## 简介
+- Stars：数万
 
-[OpenWebUI](https://github.com/open-webui/open-webui) 是自托管的ChatGPT式Web界面，支持Agent与工具调用。
+> 自托管的 ChatGPT 式 Web 界面，支持 Agent 与工具调用。
 
-**许可证**: BSD-3-Clause | **星标**: 数万
-
-## 核心特性
-
-| 特性 | 说明 |
-|------|------|
-| 🌐 Web界面 | ChatGPT风格界面 |
-| 🤖 Agent支持 | Agent和工具调用 |
-| 🔌 多模型 | Ollama/OpenAI等 |
-| 🏠 自托管 | 自主部署 |
-
-## 项目导航
-
+---
 ← 返回 [README](README.md)

@@ -1,21 +1,20 @@
 # UI-TARS
 
-## 项目信息
+- 类型：🤖 Computer Agents
+- 开发组织：字节跳动
+- 开源协议：开源
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - GUI 视觉-语言模型
+  - 界面理解
+  - 操作生成
+  - 多模态
+- GitHub：https://github.com/bytedance/UI-TARS
 
-- **GitHub**: [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS)
-- **分类**: 视觉定位
-- **语言**: Python
-- **Stars**: 5k+
+- Stars：数万
 
-## 项目描述
+> 字节跳动出品的 GUI 操作专用视觉-语言 Agent 模型与框架。
 
-UI-TARS 是字节跳动开发的GUI grounding视觉模型，专门做GUI元素定位和识别，可作为MiMo之外的辅助定位模型。
-
-## 在Hermes Agent架构中的角色
-
-UI-TARS 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供视觉定位能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/bytedance/UI-TARS)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)

@@ -1,21 +1,20 @@
 # Firecrawl
 
-## 项目信息
+- 类型：🔍 Search
+- 开发组织：Mendable AI
+- 开源协议：AGPL-3.0
+- 编程语言：TypeScript
+- 支持平台：Docker / 云服务
+- 功能：
+  - 网页抓取转 Markdown
+  - 结构化数据提取
+  - 批量爬取
+  - JS 渲染
+- GitHub：https://github.com/mendableai/firecrawl
+- 官网：https://firecrawl.dev
+- Stars：~130k
 
-- **GitHub**: [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
-- **分类**: 网页爬取
-- **语言**: Python
-- **Stars**: 20k+
+> 网页抓取转 Markdown/结构化数据，Agent 的网络之眼。
 
-## 项目描述
-
-Firecrawl 是一个强大的网页爬取工具，能够将任何网站转换为LLM可用的结构化数据，支持JavaScript渲染和反爬虫机制。
-
-## 在Hermes Agent架构中的角色
-
-Firecrawl 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供网页爬取能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/mendableai/firecrawl)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)

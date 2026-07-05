@@ -1,21 +1,20 @@
 # Crawl4AI
 
-## 项目信息
+- 类型：🔍 Search
+- 开发组织：UncleCode
+- 开源协议：开源
+- 编程语言：Python
+- 支持平台：Windows / macOS / Linux
+- 功能：
+  - 面向 LLM 优化
+  - 爬虫框架
+  - 批量爬取
+  - Markdown 输出
+- GitHub：https://github.com/unclecode/crawl4ai
 
-- **GitHub**: [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-- **分类**: 网页爬取
-- **语言**: Python
-- **Stars**: 15k+
+- Stars：数万
 
-## 项目描述
+> 面向 LLM 优化的爬虫框架。
 
-Crawl4AI 是一个为AI优化的网页爬取工具，能够高效地从网页中提取结构化数据，支持异步爬取和智能解析。
-
-## 在Hermes Agent架构中的角色
-
-Crawl4AI 是Hermes Agent全自主闭环架构中的重要组件，为Agent提供网页爬取能力。
-
-## 相关链接
-
-- [GitHub仓库](https://github.com/unclecode/crawl4ai)
-- [Hermes Agent文档](https://hermes-agent.nousresearch.com)
+---
+← 返回 [README](README.md)
